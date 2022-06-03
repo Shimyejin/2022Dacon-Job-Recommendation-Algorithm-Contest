@@ -16,5 +16,4 @@ Dacon - KNOW(한국직업정보)기반 직업 추천 알고리즘 경진대회
 
 ``` Final accuracy ``` <br />
 - 0.64645 (Random Forest)
-<br />
 
